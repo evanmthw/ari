@@ -1,0 +1,14 @@
+{
+  "name": "ari",
+  "version": "1.0.0",
+  "description": "Testing ARI with Asterisk 13.11.2",
+  "main": "answer-playback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ari-client": "^1.0.1"
+  }
+}
